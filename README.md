@@ -1,3 +1,5 @@
 # grado7
-pagina para descargar los talleres de tecnologia grado 7
-Talleres: https://github.com/Tecnoaguaclara/grado7/tree/37bff97019f1c3f5d4feeb471eca5ccde74cc68c/talleres
+Página para descargar los talleres de tecnología grado 7.
+
+### 👇 Haz clic aquí para ver los archivos:
+[📂 ABRIR CARPETA DE TALLERES](https://github.com/Tecnoaguaclara/grado7/tree/main/talleres)
